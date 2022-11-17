@@ -1,0 +1,9 @@
+{
+  "prefix":"Insert Prefix Here",
+  "version":"1.0.0",
+  "ownerid":"Insert owner id here as a integer",
+  "token":"Insert Bot token here",
+  "error_checker": false,
+  "category_help": false,
+  "roles":"Make a dictionary with the id of the roles you need for the commands"
+}

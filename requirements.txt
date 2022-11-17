@@ -1,0 +1,4 @@
+urllib3 == 1.26.12
+discord == 2.0.0
+watchfiles == 0.18.1
+rich

@@ -1,0 +1,10 @@
+poetry.lock
+pyproject.toml
+.breakpoints
+.cache
+__pycache__
+.upm
+venv
+.config
+.replit
+replit.nix
